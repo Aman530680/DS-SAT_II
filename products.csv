@@ -1,0 +1,61 @@
+product,category,brand,price band
+P001,Personal Care,SunPeak,Budget
+P002,Personal Care,PureLife,Budget
+P003,Personal Care,DailyFarm,Mid-range
+P004,Beverages,PureLife,Mid-range
+P005,  DAIRY  ,HomeEase,Budget
+P006,Dairy,SunPeak,Mid-range
+P007,Dairy,HomeEase,Budget
+P008,Grocery,HomeEase,Mid-range
+P009,Snacks,FreshChoice,Mid-range
+P010,Grocery,FreshChoice,Budget
+P011,Personal Care,DailyFarm,Budget
+P012,  PERSONAL CARE  ,FreshChoice,Mid-range
+P013,  HOUSEHOLD  ,SunPeak,Budget
+P014,  PERSONAL CARE  ,PureLife,Budget
+P015,  DAIRY  ,HomeEase,Budget
+P016,Household,SunPeak,Premium
+P017,  DAIRY  ,ValueMart,Premium
+P018,Beverages,HomeEase,Mid-range
+P019,Household,FreshChoice,Budget
+P020,Dairy,PureLife,Premium
+P021,Grocery,HomeEase,Mid-range
+P022,Dairy,HomeEase,Mid-range
+P023,  PERSONAL CARE  ,HomeEase,Mid-range
+P024,Beverages,HomeEase,Budget
+P025,Dairy,FreshChoice,Budget
+P026,Grocery,HomeEase,Premium
+P027,Personal Care,PureLife,Mid-range
+P028,Dairy,DailyFarm,Budget
+P029,Beverages,HomeEase,Budget
+P030,Beverages,FreshChoice,Mid-range
+P031,Snacks,SunPeak,Budget
+P032,Personal Care,SunPeak,Premium
+P033,Household,ValueMart,Mid-range
+P034,Dairy,DailyFarm,Mid-range
+P035,Grocery,DailyFarm,Mid-range
+P036,Personal Care,SunPeak,Mid-range
+P037,Snacks,ValueMart,Mid-range
+P038,Personal Care,ValueMart,Mid-range
+P039,Grocery,FreshChoice,Budget
+P040,  BEVERAGES  ,DailyFarm,Mid-range
+P041,Personal Care,PureLife,Budget
+P042,Personal Care,FreshChoice,Mid-range
+P043,Dairy,ValueMart,Budget
+P044,Personal Care,DailyFarm,Budget
+P045,Household,ValueMart,Budget
+P046,Dairy,DailyFarm,Mid-range
+P047,Household,SunPeak,Budget
+P048,Beverages,HomeEase,Premium
+P049,Beverages,FreshChoice,Mid-range
+P050,Personal Care,HomeEase,Budget
+P051,Snacks,HomeEase,Mid-range
+P052,Grocery,PureLife,Budget
+P053,Personal Care,ValueMart,Premium
+P054,Beverages,HomeEase,Mid-range
+P055,Personal Care,SunPeak,Mid-range
+P056,Grocery,SunPeak,Budget
+P057,Personal Care,SunPeak,Mid-range
+P058,Personal Care,PureLife,Mid-range
+P059,Personal Care,DailyFarm,Premium
+P060,Snacks,DailyFarm,Mid-range
